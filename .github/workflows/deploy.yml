@@ -21,7 +21,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Set up Node.js
@@ -32,10 +32,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build Vite production bundle
+      - name: Build project
         run: npm run build
 
-      - name: Setup GitHub Pages
+      - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Upload artifact
