@@ -1,0 +1,7 @@
+{
+  "name": "Book.com - Wholesale Books Distributor",
+  "description": "Modern B2B wholesale educational books distribution portal for Book.com Aminabad Lucknow featuring all 368 original Ghatna Chakra & YCT titles with flat 30% wholesale trade discount.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
