@@ -1,0 +1,7 @@
+{
+  "name": "Book.com - Wholesale Books Distributor",
+  "description": "Modern B2B wholesale educational books distribution portal for Book.com Aminabad Lucknow featuring over 785 original competitive and educational books across 19 publishers with pagination and quick catalog filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
